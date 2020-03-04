@@ -1,0 +1,11 @@
+- name: cv
+  link: /cv
+- name: juoksu
+  link: /juoksu
+# - name: about
+#  link: /about
+- name: portfolio
+  link : /portfolio
+# - name: blog
+#  link: /blog
+
