@@ -7,47 +7,47 @@ title: cv
 
 # Työkokemus
 
-**TUTKIMUSAVUSTAJA (OHJELMISTOKEHITTÄJÄ) - OULUN YLIOPISTO**
-*02/2019-04/2019* <br />
-Osa-aikainen oman päivätyön ohessa tehty projekti, jossa koodasin
-työkalua ilmastonmuutosuutisten ja ilmastonmuutosta käsittelevien
-tieteellisten artikkelien analyysiin.
-
-**LEHTORI - OULUN AMMATTIKORKEAKOULU**
+**Lehtori - Oulun ammattikorkeakoulu**
 *01/2017 – nykyhetki*<br />
 Viestinnän lehtori. Omat erityisalat: tutkielmaohjaus, media-analyysi,
 viestintä yhteiskunnallisena ilmiönä, TKI-toiminta, verkkojournalismi,
 viestintäoikeus, retoriikka
 
-**LEHTORI, OSASTONJOHTAJA - OULUN AMMATTIKORKEAKOULU**
+**Tutkimusavustaja (ohjelmistokehittäjä) - Oulun yliopisto**
+*02/2019-04/2019* <br />
+Osa-aikainen oman päivätyön ohessa tehty projekti, jossa koodasin
+työkalua ilmastonmuutosuutisten ja ilmastonmuutosta käsittelevien
+tieteellisten artikkelien analyysiin.
+
+**Lehtori, osastonjohtaja - Oulun ammattikorkeakoulu**
 *05/2011 – 12/2016*<br />
 Viestinnän tutkinto-ohjelman esimies. Viestinnän lehtori.
 
-**TUNTIOPETTAJA - OULUN AMMATTIKORKEAKOULU**
+**Tuntiopettaja - Oulun ammattikorkeakoulu**
 *02/2008 - 05/2008, 08/2009 - 07/2010*<br />
 Viestinnän ja journalismin opetustehtävät.
 
-**VÄITÖSKIRJATUTKIJA - TAMPEREEN YLIOPISTO, MINNESOTAN YLIOPISTO**
+**Väitöskirjatutkija - Tampereen yliopisto, Minnesotan yliopisto**
 *01/2006 - 01/2008*<br />
 Yleisradiopolitiikkaa koskeva väitöskirjatutkimus.
 Fulbright-stipendiaattina Minnesotan yliopistossa lukuvuonna 2008-2009.
 
-**OHJELMAKEHITTÄJÄ - YLE OHJELMAKEHITYS**
+**Ohjelmakehittäjä - YLE Ohjelmakehitys**
 *08/2003 - 12/2005*<br />
 YLEn tuotekehitysyksikön tehtävät, YLEn strategiset kehityshankkeet,
 kehitysprojektien vetäminen ja asiantuntijana toimiminen. Erityisenä
 vastuualueena ohjelmien ja ohjelmistomarkkinoiden analyysit.
 
-**TOIMITTAJA - AJANKOHTAINEN KAKKONEN, YLE TV2**
+**Toimittaja - YLE Ajankohtainen kakkonen**
 *06/2002 - 12/2002 sekä 06-07/2003*<br />
 Ajankohtaismakasiinin toimittajan työ.
 
-**TOIMITTAJA - USEITA**<br />
+**Toimittaja - Useita**<br />
 Kesätoimittajana vuosina 1999 (Keskisuomalainen), 2000, 2011 (Kaleva),
 ja lyhempiä sijaisuuksia 2003 (YLE Uutiset). Freelancerina opiskelujen
 ohessa.
 
-**TYÖN OHESSA 2006-2018**<br />
+**Työn ohessa 2006-2018**<br />
 Viestintäalan koulutus- ja konsultointitöitä useille työnantajille
 2006-2015. Tilaajina muun muassa Aalto-yliopisto, Yleisradio, Aito
 Media. Aiheina viestintä- ja esiintymistaidot, toimiala-analyysit,
@@ -55,18 +55,17 @@ ohjelmistoanalyysit, tuotekehitysprojektit.
 
 # Koulutus
 
-**KÄYNNISSÄ: FILOSOFIAN MAISTERI, OULUN YLIOPISTO ALOITUS 2016**<br />
+**Käynnissä: Filosofian maisteri, Oulun yliopisto, aloitus 2016**<br />
 Pääaineena tietojenkäsittelytiede
 
-**AMMATILLISEN OPETTAJAN PEDAGOGINEN PÄTEVYYS, OAMK 2013**<br />
+**Ammatillisen opettajan pedagoginen pätevyys, Oamk 2013**<br />
 60 opintopisteen laajuinen ammatillinen opettajakoulutus
 
-**YHTEISKUNTATIETEIDEN MAISTERI, TAMPEREEN YLIOPISTO 2003**<br />
+**Yhteiskuntatieteiden maisteri, Tampereen yliopisto 2003**<br />
 Pääaineena tiedotusoppi. Sivuaine elokuvatutkimusta Kööpenhaminan
 yliopistossa 2000-2001
 
-**YLIOPPILAS, OULUN LYSEON LUKIO 1997**<br />
-
+**Ylioppilas, Oulun lyseon lukio 1997**<br />
 
 # Julkaisut
 
