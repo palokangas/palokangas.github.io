@@ -3,6 +3,8 @@ layout: default
 title: juoksu
 ---
 
+------------------------------------------------------------------------
+
 # Juoksu
 
 Näiden sivujen tarkoitus on dokumentoida juoksuharrastukseni etenemistä.
