@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teemu's blog
+title: "Teemu's blog"
 ---
 
 <h1>{{ page.title }}</h1>
