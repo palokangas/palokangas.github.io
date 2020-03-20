@@ -11,6 +11,8 @@ title: home
 
 # Hei
 
+## Kohta alkaa Norppalive täällä [Linkissä](http://norppalive.fi)
+
 <p class="subtitle">Olen Teemu Palokangas. Olen viestintäalan ammattilainen <a href="cv">(kts. cv)</a>
 	ja nykyisin opetan Oulun ammattikorkeakoulun viestinnän tutkinto-ohjelmassa. Eniten tiedän
 	journalismista, retoriikasta, viestintäpolitiikasta ja asiaviihteestä.
