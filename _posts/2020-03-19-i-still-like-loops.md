@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I still like loops"
+title:  I still like loops
 date:   2020-03-19 14:41:41 +0200
 categories: programming
 tags: [listcomps, loops, style, python]
