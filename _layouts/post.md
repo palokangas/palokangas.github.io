@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<hr />
+
 <h1>{{ page.title }}</h1>
 <p>{{ page.date | date_to_string }}</p>
 

@@ -6,13 +6,18 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+	    <style>
+	    	pre {
+	    		margin-bottom:  20px;
+	    	}
+	    </style>
   </head>
   <body>
 	  <section class="section main-section">
 	    <div class="container">
 	      <div class="columns is-desktop">
 	        <div class="column is-three-fifths is-offset-one-fifth">
-	        		  	{% include navigation.html %}
+	        	{% include navigation.html %}
 
 	          <div class="content">
 	            {{ content }}
