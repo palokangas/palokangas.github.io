@@ -13,13 +13,14 @@ title: juoksu
 |  PVM     | Tapahtuma    | Tavoite    | Toteuma | Muuta     |
 |  ------- | -------------| -----------| --------| ----------|
 |  18.5.   | Terwamaraton | Kuntotesti | 4:06:29 | Ok juoksu |
-|  ???     | ??           | 3:45       |         |           |
 
 Terwamaraton meni siinä kevään hulinassa. Urheilin paljon, mutta juoksin
 vähän. Tavoitteena oli vetää 6 minuutin kilometrejä ja keskiarvoksi tuli
 lopulta 5:49/km eli sikäli ihan hyvin. Kehno juoksukunto, motivaation
 puute, ei juoksukaveria ja liikaa painoa (93kg). Täytyy hoitaa tähän
 hommaan muitakin tavoitteita kuin kunnon ylläpito!
+
+Mukavaa oli se, että 10-vuotias tytär innostui juoksemaan lapsille tarkoitetun *Terwapyrähdyksen*, joka järjestettiin samaan aikaan.
 
 #### Vuosi 2018
 
