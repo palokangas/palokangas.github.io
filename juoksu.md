@@ -16,6 +16,7 @@ pitävät ajatuksiani hyödyllisinä.
 
 -   [Ajatuksiani juoksukirjoista.](kirjoja)
 -   [Kilpailuja, tuloksia ja tuntemuksia.](tulokset)
--   [Runkeeper-profiili](http://runkeeper.com/user/parpalo)
 
-
+<!-- PÄIVITÄ TÄMÄ UUTEEN PROFIILIIN 
+<iframe height='160' width='360' frameborder='0' allowtransparency='true' scrolling='no' src='https://sporttracks.mobi/widget/user-summary/21214'></iframe>
+-->

@@ -11,14 +11,10 @@ title: home
 
 # Hei
 
-<p class="subtitle">Olen Teemu Palokangas. Olen tehnyt pitkään töitä viestintäalalla ja monissa tehtävissä <a href="cv">(kts. cv)</a>.
-	Nykyisin opetan Oulun ammattikorkeakoulun viestinnän tutkinto-ohjelmassa. Eniten tiedän
-	journalismista, retoriikasta, viestintäpolitiikasta ja asiaviihteestä.
-</p>
+Olen Teemu Palokangas. Olen tehnyt pitkään töitä viestintäalalla ja monissa tehtävissä (kts. [cv](cv)). Nykyisin opetan Oulun ammattikorkeakoulun viestinnän tutkinto-ohjelmassa. Eniten tiedän journalismista, retoriikasta, viestintäpolitiikasta ja asiaviihteestä.
 
-<p class="subtitle">Lisäksi olen kohtuullinen nörtti <a href="portfolio">(kts. portfolio)</a> ja kehitän
-	itseäni koodariksi ja datatieteilijäksi. ATK-asioissa eniten kiehtovat Full Stack -hommat, tiedonlouhinta ja tiedon visualisointi.
-</p>
+Lisäksi olen kohtuullinen nörtti (kts. [portfolio](portfolio)) ja kehitän itseäni koodariksi ja datatieteilijäksi. ATK-asioissa eniten kiehtovat juuri nyt Full Stack -hommat, tiedonlouhinta ja tiedon visualisointi.
 
-<p class="subtitle">Harrastan pitkien matkojen <a href="juoksu">juoksua</a>.</p>
+Harrastan pitkien matkojen [juoksua](juoksu).
+
 
