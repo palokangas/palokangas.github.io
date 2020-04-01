@@ -12,7 +12,7 @@ I grew up with Queen and it is still **The Band** in my records. So I immediatel
 
 So what I did (reference to relevant information below the list), was to create a small bot that automatically checks all the Queen song versions in Spotify (n = 1637), ranks them by popularity, removes the ones that are already on other Greatest Hits albums and maintains an updating playlist of these hits. For everybody's enjoyment, here it is:
 
-<figure class="image is-16by9">
+<figure class="image is-1by1">
   <iframe class="has-ratio" width="600" height="800" src="https://open.spotify.com/embed/playlist/0nYk598AxbNWBYNDQO7Y73" frameborder="0" allowfullscreen></iframe>
 </figure>
 

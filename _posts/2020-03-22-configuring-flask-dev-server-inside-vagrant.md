@@ -47,9 +47,10 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     return 'Hello from Vagrant box!'
-``` 
+```
 
 Set Flask environment variables and check that the app runs
+
 ```
 export FLASK_APP=myapp.py
 export FLASK_ENV=development
@@ -104,7 +105,7 @@ sydo systemctl start myapp
 
 Ok. Now Gunicorn is used to handle the Flask app communication to address 127.0.0.1:8000
 
-##### Set Nginx
+##### Setup Nginx
 
 By default, Vagrant only exposes ssh port 22 on guest machine and maps that to host 2222. To map the http port 80 to 8080 on the host, uncomment this in the **Vagrantfile** and restart the guest:
 
@@ -122,7 +123,7 @@ server {
 
 # This would be our static file directory, but not enabled here yeat
 #        location /static/ {
-#                alias /home/vagrant/proj/webapp/static/;
+#                alias /home/vagrant/webapp/static/;
 #        }
 
         location / {
@@ -142,8 +143,11 @@ Enable and start Nginx:
 ```
 sudo systemctl enable nginx
 sudo systemctl start nginx
+```
 
-# Ensure it's working
+##### Ensure it's working
+
+```
 sudo systemctl status nginx
 ```
 
@@ -151,8 +155,40 @@ Now the server content can be accessed from host computer's address localhost:80
 
 It might be necessary to restart Gunicorn/Nginx right after this installation to get it working but everything should be smooth after that.
 
-**Note**: I haven't been able to make shared folders between guest and host work properly. There is something in the bootup process that shadows the guest folder with host folder. Might look into that later. Before fixing that, you have to edit guest files through ssh, use Vim (or Emacs), or create some sort of git system.
+-----------------
 
+##### Edit 1.4.2020: Set up remote editing and a small fix:
 
+**To enable remote editing**:
 
+By default, Vagrant mounts host root directory in guest /vagrant mountpoint. To move app there and create a symbolic link in guest:
+
+```
+mv /home/vagrant/webapp /vagrant
+ln -s /vagrant/webapp /home/vagrant/webapp
+```
+
+And for the development environment, it's a good idea to make Gunicorn observe file changes and reload on each change. This can be done by adding **--reload** parameter to gunicorn startup command in guest /etc/
+
+```
+...
+ExecStart=/home/vagrant/webapp/venv/bin/gunicorn --reload --workers 3 --bind 127.0.0.1:8000 wsgi:app
+...
+```
+
+However, the mounting of /vagrant happens **after** Gunicorn startup so there is nothing to be found for Gunicorn to serve and app won't work. Add a simple trigger to the end of Vagrantfile:
+
+```
+config.trigger.after :up do |trigger|
+    trigger.name = "Gunicorn restarter trigger"
+    trigger.info = "Restarting Gunicorn service after mountpoints attached."
+    trigger.run_remote = {inline: "systemctl restart myapp"}
+end
+```
+
+Now the webapp is exposed to the host system in the vagrant root directory and any edits will trigger reload and show on http://127.0.0.1
+
+**Also: remove Nginx default profile**
+
+I am getting inconsistent behaviour, but it might be necessary to remove the Nginx default profile by unlinking the file in */etc/nginx/sites-enabled/default*. This is a good idea anyway so that two URLs don't conflict. For some weird reason it worked fine for a while.
 

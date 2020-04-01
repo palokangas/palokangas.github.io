@@ -13,6 +13,7 @@ title: Blog
   {% endfor %}
 </ul>
 
+<!--
 ------------------------
 
 #### Tags and associated posts
@@ -25,3 +26,4 @@ title: Blog
     {% endfor %}
   </ul>
 {% endfor %}
+-->
