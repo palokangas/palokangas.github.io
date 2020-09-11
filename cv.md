@@ -58,7 +58,7 @@ ohjelmistoanalyysit, tuotekehitysprojektit.
 
 # Koulutus
 
-**Käynnissä: Filosofian maisteri, Oulun yliopisto, aloitus 2016**<br />
+**Luonnontieteiden kandidaatti, Oulun yliopisto 2020**<br />
 Pääaineena tietojenkäsittelytiede
 
 **Ammatillisen opettajan pedagoginen pätevyys, Oamk 2013**<br />
