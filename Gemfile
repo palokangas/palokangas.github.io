@@ -23,6 +23,7 @@ group :jekyll_plugins do
 end
 
 gem "activesupport", ">= 6.0.3.1"
+gem "kramdown", ">= 2.3.0"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
