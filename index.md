@@ -11,10 +11,8 @@ title: home
 
 # Hei
 
-Olen Teemu Palokangas. Olen tehnyt pitkään töitä viestintäalalla ja monissa tehtävissä ([cv](cv)). Nykyisin opetan Oulun ammattikorkeakoulun viestinnän tutkinto-ohjelmassa. Eniten tiedän journalismista, retoriikasta, viestintäpolitiikasta ja asiaviihteestä.
+Olen Teemu Palokangas. Nykyisin työskentelen ohjelmistokehittäjänä [Jutel Oy:ssä](https://jutel.fi). Sitä ennen tein melkein parikymmentä vuotta töitä monenlaisissa viestintäalan tehtävissä ([cv](cv)). 
 
-Lisäksi olen kohtuullinen nörtti ([portfolio](portfolio)) ja kehitän itseäni koodariksi ja datatieteilijäksi. ATK-asioissa eniten kiehtovat juuri nyt Full Stack -hommat, tiedonlouhinta ja tiedon visualisointi.
+Devaajana olen eniten kiinnostunut full stack -rooliin kuuluvista osaamisista sekä tiedonlouhinnasta ja tiedon visualisoinnista ([portfolio](portfolio)). Viestinnän puolelta tiedän eniten journalismista, retoriikasta, viestintäpolitiikasta ja asiaviihteestä.
 
 Harrastan pitkien matkojen [juoksua](juoksu).
-
-

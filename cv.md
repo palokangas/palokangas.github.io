@@ -10,8 +10,12 @@ title: cv
 
 # Työkokemus
 
+**Ohjelmistokehittäjä - Jutel Oy**
+*11/2020 -->*<br />
+Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
+
 **Lehtori - Oulun ammattikorkeakoulu**
-*01/2017 – nykyhetki*<br />
+*01/2017 – 10/2020*<br />
 Viestinnän lehtori. Omat erityisalat: tutkielmaohjaus, media-analyysi,
 viestintä yhteiskunnallisena ilmiönä, TKI-toiminta, verkkojournalismi,
 viestintäoikeus, retoriikka
