@@ -8,6 +8,9 @@ title: cv
 
 # CV
 
+**Yhteystiedot**
+teemu miumau palokangas piste net
+
 # Työkokemus
 
 **Ohjelmistokehittäjä - Jutel Oy**
