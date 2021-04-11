@@ -77,6 +77,19 @@ yliopistossa 2000-2001
 
 **Ylioppilas, Oulun lyseon lukio 1997**<br />
 
+# ATK-osaamista
+
+Tuoreimmat osaamiset **Ruby** ja **Ruby on Rails** -maailmasta backend-puolelta ja
+**ReactJS**-asioista frontissa. Erityisen paljon olen tehnyt integraatioprojekteja,
+joissa **REST API**t ovat keskiössä. **Linux**ia pyöritellään devaus- ja tuotantoympäristönä ja
+putkistosta löytyvät **Git**, **Docker** ja **Jenkins**.
+
+Suurin osa omista projekteista on **Python**illa ja sen kirjastoilla (**Flask, Django, SQLAlchemy..**) tehtyjä.
+Datahommissa **NLTK**, **Plotly** ja **Scikit-learn** ovat tulleet eniten tutuiksi.
+
+Takaraivossa on kaikenlaista vähän uinuvaa, mutta herättelykelposta osaamista, kuten SQL, Java, C, C++, HTML, CSS,
+ActiveMQ (Stomp), R. Testejä olen kirjoitellut RSpecillä ja Pytestillä.
+
 # Julkaisut
 
 **Lowe, G. F., & Palokangas, T. (2010)**. Heritage brand management in
