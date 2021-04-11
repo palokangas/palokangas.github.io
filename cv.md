@@ -88,7 +88,7 @@ Suurin osa omista projekteista on **Python**illa ja sen kirjastoilla (**Flask, D
 Datahommissa **NLTK**, **Plotly** ja **Scikit-learn** ovat tulleet eniten tutuiksi.
 
 Takaraivossa on kaikenlaista vähän uinuvaa, mutta herättelykelposta osaamista, kuten SQL, Java, C, C++, HTML, CSS,
-ActiveMQ (Stomp), R. Testejä olen kirjoitellut RSpecillä ja Pytestillä.
+ActiveMQ (Stomp), R. Testejä olen kirjoittanut RSpecillä ja Pytestillä.
 
 # Julkaisut
 
