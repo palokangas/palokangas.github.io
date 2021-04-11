@@ -148,7 +148,7 @@ Vuosi 2015
 #### [Vinkkamedia](http://vinkkamedia.fi)
 
 Vastasin portfoliosivun teknisestä toteutuksesta ja
-projektinhallinnasta, nykyisin lähinnä ylläpidosta. Graafinen ilme on
+projektinhallinnasta sekä ylläpidosta 2015-2020. Graafinen ilme on
 henkilökunnan ja opiskelijoiden yhteistyötä. Toteutus
 Wordpress-pohjalle.
 
@@ -158,7 +158,7 @@ Wordpress-pohjalle.
 
 #### [Vinkka.news](http://vinkka.news)
 
-Vinkka.newsin suunnittelu- ja ylläpitotehtävät vuodesta 2008. Nykyinen
+Vinkka.newsin suunnittelu- ja ylläpitotehtävät vuodesta 2008 vuoteen 2020. Nykyinen
 on jo aika mones versio alkuperäisestä. Wordpressistä lähdettiin
 liikkeelle, josta Drupalin ja Joomlan testailujen kautta takaisin
 Wordpressiin. Palvelun vaatimuksena on, että sen pitää olla järkevästi
