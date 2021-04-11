@@ -36,12 +36,13 @@ tarpeen tullen poistaa myös yleisimpiä sanoja ja välimerkkejä), ja
 käyttää erilaisia NLP-tekniikoita uutisten analysoimiseksi. Käytössä on
 yksinkertaista sanojen yleisyyden laskentaa, sentimenttianalyysiä,
 nimien tunnistamista ja aihemallinnusta (LDA). Tulokset näytetään
-webbisivustona. Aineisto tätä varten on kerätty yhdellä ajanhetkellä
+webbisivustona. Aineisto tätä varten on kerätty projektina yhdellä ajanhetkellä
 joulukuussa 2019, mutta louhinnan voisi myös laittaa päivittymään
 automaattisesti.
 
 **Tekniikat:** Web: Flask ja Plotly. Analyysityökaluina mm.
 NLTK, Scikit-learn, NewsAPI, Vader jne. <br />
+**Lähdekoodi:**: [githubissa](https://github.com/palokangas/nlpnews)<br />
 **Demoserveri:** [frostlab.fi/nlpnews](https://frostlab.fi/nlpnews) <br />
 
 ![NLP News analysis website](img/nlpnews.png)
