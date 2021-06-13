@@ -15,11 +15,11 @@ Also, I am using different email addresses on different domains and there is som
 
 So I did some reseach. There are many options, and I would roughly categorize the options this way from user/maintainer perspective, from complex to simple (some of these overlap quite a bit):
 
-1) Running your own email server
-2) Email services provided by web hosting package
-3) Using dedicated email services with multi-user and multi-domain support
-4) Privacy-focused email services
-5) Personal email services
+  1) Running your own email server
+  2) Email services provided by web hosting package
+  3) Using dedicated email services with multi-user and multi-domain support
+  4) Privacy-focused email services
+  5) Personal email services
 
 And this is how I arrived at my conclusion.
 
