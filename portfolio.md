@@ -89,7 +89,7 @@ Javascript, JQuery) <br />
 
 ------------------------------------------------------------------------
 
-#### [Uutistutka](http://uutistutka.fi/analysis)
+#### Uutistutka 
 
 Oulun yliopiston projektissa tekemäni tiedonlouhintasovellus, jossa
 analysoidaan verkon ilmastonmuutosuutisia. Uutiset haetaan avoimien
@@ -99,13 +99,13 @@ nyt valmiina sanafrekvensseihin pohjaava analyysityökalu ja sen
 raportointi. Bubbling under kaikkea muuta.
 
 **Tekniikat:** Django, Python, NLTK, PostgreSQL, Nginx <br />
-**Verkossa:** [uutistutka](http://uutistutka.fi/analysis/)
+**Verkossa:** -- poistettu julkisesta verkosta 19.12.2021 --
 
 ![Analysis at Uutistutka](img/uutistutka-analysis-shadow.png)
 
 ------------------------------------------------------------------------
 
-#### [ArticleWeb](http://uutistutka.fi/artweb)
+#### ArticleWeb
 
 Oulun yliopiston projektissa tekemäni tiedonlouhintasovellus, jossa
 puretaan tietellisistä artikkeleista lähdeviitetietoja ja analysoidaan,
@@ -120,7 +120,7 @@ ja monille lähdeviiteformaateille).
 
 **Tekniikat:** Django, Python, PostgreSQL, Nginx,
 [articleparse](https://github.com/palokangas/article-parse) <br />
-**Verkossa:** [ArticleWeb](http://uutistutka.fi/artweb/)
+**Verkossa:** -- poistettu julkisesta verkosta 19.12.2021 --
 
 ![ArticleWeb at Uutistutka](img/uutistutka-artweb-shadow.png)
 
