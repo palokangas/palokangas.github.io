@@ -13,22 +13,27 @@ teemu miumau palokangas piste net
 
 # Työkokemus
 
+## IT-alalla (2020 --> )
+
 **Ohjelmistokehittäjä - Jutel Oy**
 *11/2020 -->*<br />
 Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
-Avainsanoja: Ruby (on Rails), RESTful, JavaScript, React, SQL, Docker, Linux, Git.
-
-**Lehtori - Oulun ammattikorkeakoulu**
-*01/2017 – 10/2020*<br />
-Viestinnän lehtori. Omat erityisalat: tutkielmaohjaus, media-analyysi,
-viestintä yhteiskunnallisena ilmiönä, TKI-toiminta, verkkojournalismi,
-viestintäoikeus, retoriikka
+Avainsanoja: Ruby (on Rails), RESTful, ActiveMQ, JavaScript, React, SQL, Docker, Linux, Git,
+integraatiot.
 
 **Tutkimusavustaja (ohjelmistokehittäjä) - Oulun yliopisto**
 *02/2019-04/2019* <br />
 Osa-aikainen oman päivätyön ohessa tehty projekti, jossa koodasin
 työkalua ilmastonmuutosuutisten ja ilmastonmuutosta käsittelevien
 tieteellisten artikkelien analyysiin.
+
+## Viestintäalalla (1999 --> )
+
+**Lehtori - Oulun ammattikorkeakoulu**
+*01/2017 – 10/2020*<br />
+Viestinnän lehtori. Omat erityisalat: tutkielmaohjaus, media-analyysi,
+viestintä yhteiskunnallisena ilmiönä, TKI-toiminta, verkkojournalismi,
+viestintäoikeus, retoriikka
 
 **Lehtori, osastonjohtaja - Oulun ammattikorkeakoulu**
 *05/2011 – 12/2016*<br />
