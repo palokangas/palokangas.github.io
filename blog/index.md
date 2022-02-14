@@ -5,7 +5,7 @@ title: Blog
 
 ------------------------
 
-#### Blog still at its infancy:
+#### Blog posts:
 
 <ul class="posts">
   {% for post in site.posts %}
