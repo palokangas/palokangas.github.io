@@ -10,6 +10,9 @@ Vuosi 2020
 
 #### [Tekstinlouhinta työpaikkailmoituksista](https://frostlab.fi/itduunit)
 
+**Edit 02/2022: MOL on muuttanut APIaan, joten olen kytkenyt toistaiseksi
+kaikki päivitykset pois. Katsotaan, jaksanko palata tämän ääreen jossain vaiheessa.**
+
 ITDuunit-sivusto raapii päivittäin uudet it-alan työpaikat TE-keskuksen
 palvelusta ja ylläpitää listaa auki olevien paikkojen edellyttämistä
 osaamisista. Tällä hetkellä systeemi parsii ilmoitusteksteistä
