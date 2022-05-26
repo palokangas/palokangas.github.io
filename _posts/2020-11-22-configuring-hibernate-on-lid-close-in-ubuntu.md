@@ -32,3 +32,15 @@ HibernateDelaySec=120min
 ```
 
 So with these options, whenever I close my laptop lid, the system suspends to RAM for two hours. This means that if I go out for lunch, take a short commute or have other kind of short break, the system wakes up very fast when I open the lid. But after two hours, the system hibernates to save battery. My system wakes up from hibernate to existing state in 15-30 seconds depending on scenario and that is quite acceptable.
+
+**Edit:** (26.05.2022)
+
+Creating this for new computer and noticed I left something out previously. So you also need to add your swap partition UUID to your grub configuration:
+
+```
+# /etc/default/grub
+
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash resume=UUID=c545543-3432-4c3a-a7d5-assbf27c3427"
+```
+
+I think modern linuxes can also use swap file to hibernate, but I have been using a separate partition.
