@@ -7,6 +7,16 @@ title: juoksu
 
 # Tavoitteita ja tuloksia
 
+#### Vuosi 2022
+
+|  PVM     | Tapahtuma    | Tavoite    | Toteuma | Muuta     |
+|  ------- | -------------| -----------| --------| ----------|
+|  21.5.   | Terwamaraton puolikas | Kuntotesti | 2:07:49 | - |
+
+Korona teki tauon juoksukilpailuihin ja niihin osallistumiseen. Nyt
+työnantaja tuki osallistumista ja muiden imussa päätin lähteä testaamaan
+puolikkaan kuntoa. No, ajasta näkee, että kunto on vielä vähän hakusessa.
+Mutta koko matka juosten.
 
 #### Vuosi 2019
 
