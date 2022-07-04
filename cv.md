@@ -15,7 +15,7 @@ teemu miumau palokangas piste net
 
 ## IT-alalla (2020 --> )
 
-**Ohjelmistokehittäjä - Jutel Oy**
+**Senior Software Developer - Jutel Oy**
 *11/2020 -->*<br />
 Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
 Avainsanoja: Ruby (on Rails), RESTful, ActiveMQ, JavaScript, React, SQL, Docker, Linux, Git,

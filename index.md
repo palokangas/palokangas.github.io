@@ -11,9 +11,9 @@ title: home
 
 # Hei
 
-Olen Teemu Palokangas. Nykyisin työskentelen full stack -ohjelmistokehittäjänä [Jutel Oy:ssä](https://jutel.fi). Sitä ennen tein melkein parikymmentä vuotta töitä monenlaisissa viestintäalan tehtävissä ([cv](cv)). 
+Olen Teemu Palokangas. Nykyisin työskentelen Senior Software Developerina [Jutel Oy:ssä](https://jutel.fi). Sitä ennen tein melkein parikymmentä vuotta töitä monenlaisissa viestintäalan tehtävissä ([cv](cv)). 
 
-**Devaajana** olen eniten kiinnostunut full stack -rooliin kuuluvista osaamisista sekä tiedonlouhinnasta ja tiedon visualisoinnista ([portfolio](portfolio)). Nykyisessä työssäni olen erikoistunut ennen kaikkea backendiin ja integraatioihin.  Vastaan myös integraatioihin ja rajapintohin liittyvästä arkkitehtuurista.
+**Devaajana** olen eniten kiinnostunut full stack -rooliin kuuluvista osaamisista sekä tiedonlouhinnasta ja tiedon visualisoinnista ([portfolio](portfolio)). Nykyisessä työssäni olen erikoistunut ennen kaikkea backendiin ja integraatioihin.  Vastaan myös integraatioihin ja rajapintohin liittyvästä arkkitehtuurista ja teknisestä suunnittelusta.
 
 **Viestinnän** ammattilaisena tiedän eniten journalismista, retoriikasta, viestintäpolitiikasta ja asiaviihteestä. Minulla on pitkä kokemus viestintäalan kouluttajana ja analyytikkona (mediatekstit, ohjelmat, ohjelmistot, yleisöt).
 
