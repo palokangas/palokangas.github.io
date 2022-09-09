@@ -92,18 +92,22 @@ yliopistossa 2000-2001
 
 # ATK-osaamista
 
-Tuoreimmat osaamiset **Ruby** ja **Ruby on Rails** -maailmasta backend-puolelta ja
+Tuoreimmat osaamiset ovat **Ruby** ja **Ruby on Rails** -maailmasta backend-puolelta ja
 **ReactJS**-asioista frontissa. Erityisen paljon olen tehnyt integraatioprojekteja,
-joissa **REST API**t ovat keskiössä. **Linux**ia pyöritellään devaus- ja tuotantoympäristönä ja
-putkistosta löytyvät **Git**, **Docker** ja **Jenkins**.
+joissa **REST API**t ovat keskiössä, ja siihen sitten yhdistyy koko joukko erilaisia
+tiedostomuotoja ja niiden vääntelyitä, tiedonsiirtoprotokollia, API-rajapintoja jne.
+Yhden tuoreen järjestelmäprojektin tein **Go**lla.
+
+**Linux**ia olen tottunut pyörittelemään devaus- ja tuotantoympäristönä ja putkistosta löytyvät **Git**, **Docker** ja **Jenkins**.
+Tietokannoista tutumpia ovat relaatiomalliset (PostgreSQL, DB2) ja niiden kanssa toimitaan **SQL**llä.
 
 Suurin osa omista projekteista on **Python**illa ja sen kirjastoilla (**Flask, Django, SQLAlchemy..**) tehtyjä.
 Datahommissa **NLTK**, **Plotly** ja **Scikit-learn** ovat tulleet eniten tutuiksi.
 
-Takaraivossa on kaikenlaista vähän uinuvaa, mutta herättelykelposta osaamista, kuten SQL, Java, C, C++, HTML, CSS,
-ActiveMQ (Stomp), R. Testejä olen kirjoittanut RSpecillä ja Pytestillä.
+Takaraivossa on kaikenlaista vähän uinuvaa, mutta herättelykelposta osaamista, kuten Java, C, C++, HTML, CSS,
+ActiveMQ (Stomp), R, Flutter/Dart. Testejä olen kirjoittanut RSpecillä ja Pytestillä.
 
-# Julkaisut
+# Viestintäalan julkaisut
 
 **Lowe, G. F., & Palokangas, T. (2010)**. Heritage brand management in
 public service broadcasting. Reinventing Public Service Communication:
