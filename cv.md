@@ -25,8 +25,6 @@ ja omasta tiimistäni.
 **Software Designer - Jutel Oy**
 *11/2020-06/2022*<br />
 Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
-Avainsanoja: Ruby (on Rails), RESTful, ActiveMQ, JavaScript, React, SQL, Docker, Linux, Git,
-integraatiot.
 
 **Tutkimusavustaja (ohjelmistokehittäjä) - Oulun yliopisto**
 *02/2019-04/2019* <br />
@@ -78,6 +76,9 @@ ohjelmistoanalyysit, tuotekehitysprojektit.
 
 # Koulutus
 
+**Ratkaisukeskeinen coach ja valmentaja, Pohjois-Pohjanmaan kesäyliopisto**<br />
+Ratkaisu- ja voimavarakeskeisen työskentelyn opinnot (30op).
+
 **Luonnontieteiden kandidaatti, Oulun yliopisto 2020**<br />
 Pääaineena tietojenkäsittelytiede
 
@@ -90,13 +91,13 @@ yliopistossa 2000-2001
 
 **Ylioppilas, Oulun lyseon lukio 1997**<br />
 
-# ATK-osaamista
+# ATK-osaamiset
 
-Tuoreimmat osaamiset ovat **Ruby** ja **Ruby on Rails** -maailmasta backend-puolelta ja
-**ReactJS**-asioista frontissa. Erityisen paljon olen tehnyt integraatioprojekteja,
+Tuotantokoodia teen enimmäkseen **Ruby**llä, **Ruby on Rails**illa ja
+**ReactJS**:llä. Erityisen paljon olen tehnyt integraatioprojekteja,
 joissa **REST API**t ovat keskiössä, ja siihen sitten yhdistyy koko joukko erilaisia
 tiedostomuotoja ja niiden vääntelyitä, tiedonsiirtoprotokollia, API-rajapintoja jne.
-Yhden tuoreen järjestelmäprojektin tein **Go**lla.
+Yhden tuoreen järjestelmäprojektin tein **Go**lla, joka oli ilahduttava kokemus.
 
 **Linux**ia olen tottunut pyörittelemään devaus- ja tuotantoympäristönä ja putkistosta löytyvät **Git**, **Docker** ja **Jenkins**.
 Tietokannoista tutumpia ovat relaatiomalliset (PostgreSQL, DB2) ja niiden kanssa toimitaan **SQL**llä.
