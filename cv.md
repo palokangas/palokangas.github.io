@@ -8,8 +8,18 @@ title: cv
 
 # CV
 
-**Yhteystiedot**
+#### Yhteystiedot
+
 teemu miumau palokangas piste net
+
+#### TL;DR
+
+Nörtti jo 1980-luvulta lähtien. "Lyhyt" kiertotie IT-alalle viestintäalan kautta.
+Nykyisin it-hommissa senior-stauksella, joka tarkoittaa käytännössä sitä, että oman
+devaustyön lisäksi osallistun tuotteen tekniseen suunnitteluun ja sen varmistamiseen, että
+teemme yhdessä oikeita asioita. 
+
+-------- 
 
 # Työkokemus
 
@@ -30,7 +40,7 @@ Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
 *02/2019-04/2019* <br />
 Osa-aikainen oman päivätyön ohessa tehty projekti, jossa koodasin
 työkalua ilmastonmuutosuutisten ja ilmastonmuutosta käsittelevien
-tieteellisten artikkelien analyysiin.
+tieteellisten artikkelien analyysiin. Työkaluina Python, Django ja NLTK.
 
 ## Viestintäalalla (1999 --> )
 
@@ -76,7 +86,7 @@ ohjelmistoanalyysit, tuotekehitysprojektit.
 
 # Koulutus
 
-**Ratkaisukeskeinen coach ja valmentaja, Pohjois-Pohjanmaan kesäyliopisto**<br />
+**Ratkaisukeskeinen coach ja valmentaja, Pohjois-Pohjanmaan kesäyliopisto 2022**<br />
 Ratkaisu- ja voimavarakeskeisen työskentelyn opinnot (30op).
 
 **Luonnontieteiden kandidaatti, Oulun yliopisto 2020**<br />
