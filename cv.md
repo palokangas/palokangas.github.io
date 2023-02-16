@@ -15,9 +15,6 @@ teemu miumau palokangas piste net
 #### TL;DR
 
 Nörtti jo 1980-luvulta lähtien. "Lyhyt" kiertotie IT-alalle viestintäalan kautta.
-Nykyisin it-hommissa senior-stauksella, joka tarkoittaa käytännössä sitä, että oman
-devaustyön lisäksi osallistun tuotteen tekniseen suunnitteluun ja sen varmistamiseen, että
-teemme yhdessä oikeita asioita. 
 
 -------- 
 
@@ -25,14 +22,19 @@ teemme yhdessä oikeita asioita.
 
 ## IT-alalla (2020 --> )
 
-**Senior Software Developer - Jutel Oy**
-*07/2022 -->*<br />
+**Rails Developer - Kisko Labs**
+*01/2023 -->*<br />
+Ennen kaikkea backend-kehittäjän työt useissa projekteissa. Ruby on Rails frameworkina työn keskiössä.
+Avainsanoja: Ruby, RoR, GraphQL, SQL, Docker, Linux, Git.
+
+**Senior Software Developer - Jutel**
+*07/2022-12/2022 ->*<br />
 Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
 Avainsanoja: Ruby (on Rails), RESTful, ActiveMQ, JavaScript, React, SQL, Docker, Linux, Git,
 integraatiot. Devaustyön lisäksi vastaan integraatioarkkitehtuurista, tuotteen teknisestä suunnittelusta
 ja omasta tiimistäni.
 
-**Software Designer - Jutel Oy**
+**Software Designer - Jutel**
 *11/2020-06/2022*<br />
 Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
 
