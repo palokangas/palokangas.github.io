@@ -11,10 +11,13 @@ title: home
 
 # Hei
 
-Olen Teemu Palokangas. Nykyisin työskentelen Senior Software Developerina [Jutel Oy:ssä](https://jutel.fi). Sitä ennen tein melkein parikymmentä vuotta töitä monenlaisissa viestintäalan tehtävissä ([cv](cv)). ATK-asioita olen harrastanut
+Olen Teemu Palokangas. Nykyisin työskentelen ohjelmistokehittäjänä [Kisko Labsilla](https://www.kiskolabs.com).
+IT-alan työläinen olen ollut vuodesta 2020. Sitä ennen tein melkein parikymmentä vuotta töitä monenlaisissa
+viestintäalan tehtävissä ([cv](cv)). ATK-asioita olen harrastanut
 1980-luvulta lähtien, joten ihan tuore en bittien komentamisessakaan ole.
 
-**Devaajana** minua kiinnostaa teknisesti järkevän, ymmärrettävän ja ylläpidettävän ratkaisun löytäminen johonkin konkreettiseen tarpeeseen. Nykyisessä työssäni olen erikoistunut integraatioihin ja backendiin. Vastaan myös integraatioihin ja rajapintohin liittyvästä arkkitehtuurista ja teknisestä suunnittelusta. Omat harrastukset ([portfolio](portfolio)) ovat keskittyneet tiedonlouhintaan ja data-analytiikkaan. 
+**Devaajana** minua kiinnostaa erityisesti teknisesti järkevän, ymmärrettävän ja ylläpidettävän ratkaisun suunnittelu ja totetutus johonkin konkreettiseen tarpeeseen.
+Omat koodausharrastukset ([portfolio](portfolio)) ovat keskittyneet tiedonlouhintaan ja data-analytiikkaan. 
 
 **Viestinnän** ammattilaisena minulla on sisällöntuotannon lisäksi pitkä kokemus kehittäjänä, kouluttajana ja analyytikkona.
 
