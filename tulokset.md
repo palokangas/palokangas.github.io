@@ -7,6 +7,16 @@ title: juoksu
 
 # Tavoitteita ja tuloksia
 
+#### Vuosi 2023
+
+|  PVM     | Tapahtuma    | Tavoite    | Toteuma | Muuta     |
+|  ------- | -------------| -----------| --------| ----------|
+|  ?       | Joku puolikas | Kuntotesti |  -     | - |
+
+Toipuminen akillesjänteen katkeamisesta 10/2022 menossa... Tavoite
+olisi päästä treenaamaan keväällä ja juosta joku kisa luultavasti
+loppukesästä tai syksyllä.
+
 #### Vuosi 2022
 
 |  PVM     | Tapahtuma    | Tavoite    | Toteuma | Muuta     |
