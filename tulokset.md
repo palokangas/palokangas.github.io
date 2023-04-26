@@ -17,6 +17,9 @@ Toipuminen akillesjänteen katkeamisesta 10/2022 menossa... Tavoite
 olisi päästä treenaamaan keväällä ja juosta joku kisa luultavasti
 loppukesästä tai syksyllä.
 
+**Edit:** Viikolla 16 ensimmäiset juoksuaskeleet aamukävelyn lomassa. Ja sitten jo pari
+4km lenkkiä enimmäkseen juosten. Jalka on vielä aika pökkelö, mutta vain vähän kipeä.
+
 #### Vuosi 2022
 
 |  PVM     | Tapahtuma    | Tavoite    | Toteuma | Muuta     |
