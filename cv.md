@@ -14,7 +14,7 @@ teemu miumau palokangas piste net
 
 #### TL;DR
 
-Nörtti jo 1980-luvulta lähtien. "Lyhyt" kiertotie IT-alalle viestintäalan kautta.
+Nörtti jo 1980-luvulta lähtien. Kiertotie IT-alalle viestintäalan kautta.
 
 -------- 
 
@@ -22,16 +22,18 @@ Nörtti jo 1980-luvulta lähtien. "Lyhyt" kiertotie IT-alalle viestintäalan kau
 
 ## IT-alalla (2020 --> )
 
-**Rails Developer - Kisko Labs**
+**Software Developer - Kisko Labs**
 *01/2023 -->*<br />
-Ennen kaikkea backend-kehittäjän työt useissa projekteissa. Ruby on Rails frameworkina työn keskiössä.
-Avainsanoja: Ruby, RoR, GraphQL, SQL, Docker, Linux, Git.
+Backend-painotteista softakehitystä useissa projekteissa. Jonkin
+verran myös fronttia. Ruby on Rails on työn keskiössä.
+Avainsanoja arjessa: Ruby (on Rails), GraphQL, PostgreSQL, ReactJS, Docker, Linux, Git,
+AWS, GCP, Dokku, Heroku.
 
 **Senior Software Developer - Jutel**
 *07/2022-12/2022 ->*<br />
 Ohjelmistokehittäjän työ RadioMan-radioautomaatiojärjestelmän parissa.
 Avainsanoja: Ruby (on Rails), RESTful, ActiveMQ, JavaScript, React, SQL, Docker, Linux, Git,
-integraatiot. Devaustyön lisäksi vastaan integraatioarkkitehtuurista, tuotteen teknisestä suunnittelusta
+integraatiot. Devaustyön lisäksi vastasin integraatioarkkitehtuurista, tuotteen teknisestä suunnittelusta
 ja omasta tiimistäni.
 
 **Software Designer - Jutel**
@@ -88,6 +90,9 @@ ohjelmistoanalyysit, tuotekehitysprojektit.
 
 # Koulutus
 
+**Certified Scrum Master**<br />
+Sertifioitu 12/2023
+
 **Ratkaisukeskeinen coach ja valmentaja, Pohjois-Pohjanmaan kesäyliopisto 2022**<br />
 Ratkaisu- ja voimavarakeskeisen työskentelyn opinnot (30op).
 
@@ -106,10 +111,14 @@ yliopistossa 2000-2001
 # ATK-osaamiset
 
 Tuotantokoodia teen enimmäkseen **Ruby**llä, **Ruby on Rails**illa ja
-**ReactJS**:llä. Erityisen paljon olen tehnyt integraatioprojekteja,
+frontin puolella **ReactJS**:llä. Rails 7:n myötä kiinnostus on
+yksinkertaistaa frontend-puolta ja korvata Reactia mahdollisuuksien mukaan
+**Hotwire**-tekniikoilla, käytännössä Turbolla ja Stimuluksella.
+
+Olen tehnyt kaikenlaista, mutta erityisen paljon integraatioprojekteja,
 joissa **REST API**t ovat keskiössä, ja siihen sitten yhdistyy koko joukko erilaisia
 tiedostomuotoja ja niiden vääntelyitä, tiedonsiirtoprotokollia, API-rajapintoja jne.
-Yhden tuoreen järjestelmäprojektin tein **Go**lla, joka oli ilahduttava kokemus.
+Yhden tuoreen järjestelmäprojektin tein **Golang**illa, joka oli ilahduttava kokemus.
 
 **Linux**ia olen tottunut pyörittelemään devaus- ja tuotantoympäristönä ja putkistosta löytyvät **Git**, **Docker** ja **Jenkins**.
 Tietokannoista tutumpia ovat relaatiomalliset (PostgreSQL, DB2) ja niiden kanssa toimitaan **SQL**llä.
@@ -168,5 +177,5 @@ yliopistossa toukokuussa 2006.
 **Kielitaito:** suomi: äidinkieli, englanti: sujuva, skandinaaviska:
 kohtuullinen, saksa: perusteet
 
-**Harrastukset:** juoksu, lukeminen
+**Harrastukset:** juoksu, lukeminen, ikuinen opiskelu
 
