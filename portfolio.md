@@ -17,11 +17,7 @@ ITDuunit-sivusto raapii päivittäin uudet it-alan työpaikat TE-keskuksen
 palvelusta ja ylläpitää listaa auki olevien paikkojen edellyttämistä
 osaamisista. Tällä hetkellä systeemi parsii ilmoitusteksteistä
 hakijoilta edellytettyjä teknologiataitoja ja näyttää, mitä
-teknologioita juuri nyt pitäisi osata. Systeemiin on kertynyt syksystä
-2019 lähtien myös historiallista dataa, joten kohta tätä voisi täydentää
-niin, että näytetään myös eri osaamisten trendit ajan suhteen. Lisäksi
-tarkoituksena on parturoida myös muut kuin teknologiaosaamiset eli
-"työelämätaidot", "ajattelun taidot" yms. omaksi osuudekseen.
+teknologioita juuri nyt pitäisi osata. 
 
 **Tekniikat:** Webbisivusto: Flask ja Plotly. NLP-työkaluna NLTK.<br />
 **Demoserveri:** [frostlab.fi/itduunit](https://frostlab.fi/itduunit) <br />
@@ -38,10 +34,7 @@ joka raapii uutissivustoilta uutisia, puhdistaa sivut tekstiksi (ja
 tarpeen tullen poistaa myös yleisimpiä sanoja ja välimerkkejä), ja
 käyttää erilaisia NLP-tekniikoita uutisten analysoimiseksi. Käytössä on
 yksinkertaista sanojen yleisyyden laskentaa, sentimenttianalyysiä,
-nimien tunnistamista ja aihemallinnusta (LDA). Tulokset näytetään
-webbisivustona. Aineisto tätä varten on kerätty projektina yhdellä ajanhetkellä
-joulukuussa 2019, mutta louhinnan voisi myös laittaa päivittymään
-automaattisesti.
+nimien tunnistamista ja aihemallinnusta (LDA).
 
 **Tekniikat:** Web: Flask ja Plotly. Analyysityökaluina mm.
 NLTK, Scikit-learn, NewsAPI, Vader jne. <br />
@@ -58,9 +51,6 @@ Vuosi 2019
 #### [Menomeno event calendar API browser](https://github.com/palokangas/eventbrowser/)
 
 Webbisovellus, joka hyödyntää Menomeno RESTful APIa (kts. alla).
-Sovelluksella voi selata tapahtumakalenterin tapahtumia eri kriteerien
-mukaan. APIn kautta voi myös lisätä uusia kaupunkeja, tapahtumapaikkoja
-ja tapahtumia sekä editoida vanhojen tietoja.
 
 **Tekniikat:** ReactJS, Bootstrap 4 <br />
 **Koodi:** [Githubissa](https://github.com/palokangas/eventbrowser/) <br />
@@ -79,8 +69,7 @@ allowfullscreen></iframe></div>
 Oulusta, ja ehkä muistakin kaupungeista, puuttuu edelleen
 tapahtumakalenteri, joka pysyisi ajan tasalla. Tavoitteena on tehdä
 sellainen. Projekti on vielä työn alla, mutta toimiva, testattu backend
-ja dokumentoitu REST API on nyt tehty. Seuraavana täydennetään
-tarvittavaa dataa ja mietitään myös frontend-puolta.
+ja dokumentoitu REST API on nyt tehty. 
 
 **Tekniikat:** Flask, Flask-RESTful, Python (paikallinen admin:
 Javascript, JQuery) <br />
@@ -99,7 +88,7 @@ analysoidaan verkon ilmastonmuutosuutisia. Uutiset haetaan avoimien
 rajapintojen kautta, puhdistetaan tekstiksi, analysoidaan eri
 tekniikoita käyttäen ja raportoidaan webbiin. Käyttöliittymäpuolella on
 nyt valmiina sanafrekvensseihin pohjaava analyysityökalu ja sen
-raportointi. Bubbling under kaikkea muuta.
+raportointi.
 
 **Tekniikat:** Django, Python, NLTK, PostgreSQL, Nginx <br />
 **Verkossa:** -- poistettu julkisesta verkosta 19.12.2021 --
@@ -145,20 +134,6 @@ joka muuttuisi "isoksi" ohjelmaksi hyperteksti-ominaisuuksien avulla.
 
 ------------------------------------------------------------------------
 
-Vuosi 2015
-==========
-
-#### [Vinkkamedia](http://vinkkamedia.fi)
-
-Vastasin portfoliosivun teknisestä toteutuksesta ja
-projektinhallinnasta sekä ylläpidosta 2015-2020. Graafinen ilme on
-henkilökunnan ja opiskelijoiden yhteistyötä. Toteutus
-Wordpress-pohjalle.
-
-![Vinkkamedia](img/vinkkamedia.png)
-
-------------------------------------------------------------------------
-
 #### [Vinkka.news](http://vinkka.news)
 
 Vinkka.newsin suunnittelu- ja ylläpitotehtävät vuodesta 2008 vuoteen 2020. Nykyinen
@@ -185,8 +160,7 @@ tein sen itse. Ei kovin kaunis, mutta toimiva ja ihan ok strategiapeli,
 jota tuli tahkottua kaveria vastaan aika tavalla. Alkuperäinen toteutus
 oli Turbo Pascalilla ja jollain sille julkaistulla grafiikkakirjastolla.
 Toimii DOS-ympäristössä ja edelleen emulaattorin kautta. Lähdekoodit
-ovat kadonneet, joka ei välttämättä ole valitettava asia. Tämä olisi
-mukava toteuttaa uudestaan ja pistää mukaan tekoäly.
+ovat kadonneet, joka ei välttämättä ole valitettava asia. 
 
 ![PC-Atoms](img/pc-atoms.png)
 
@@ -202,7 +176,7 @@ mukava toteuttaa uudestaan ja pistää mukaan tekoäly.
     Vultr osoittautui omiin tarpeisiin yksinkertaisemmaksi ja
     riittäväksi. NLP-analyysiprojekti pyörii halvassa
     webhotellissa (kohtuullisesti!) Apache WSGI-modia hyödyntäen.
--   Wordpress-projektit ovat PHP-webhotelleissa. Nykyisin Godaddyssä.
+-   Wordpress-projektit ovat PHP-webhotelleissa. 
 -   Linux-taidot ovat kohtuullisen hyvät. Tutuimmat Linuxit
     ovat Debian-pohjaisia.
 
