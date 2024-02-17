@@ -25,7 +25,7 @@ Nörtti jo 1980-luvulta lähtien. Kiertotie IT-alalle viestintäalan kautta.
 **Software Developer - Kisko Labs**
 *01/2023 -->*<br />
 Backend-painotteista softakehitystä useissa projekteissa. Jonkin
-verran myös fronttia. Ruby on Rails on työn keskiössä.
+verran myös fronttia. 
 Avainsanoja arjessa: Ruby (on Rails), GraphQL, PostgreSQL, ReactJS, Docker, Linux, Git,
 AWS, GCP, Dokku, Heroku.
 
@@ -48,19 +48,11 @@ tieteellisten artikkelien analyysiin. Työkaluina Python, Django ja NLTK.
 
 ## Viestintäalalla (1999 --> )
 
-**Lehtori - Oulun ammattikorkeakoulu**
-*01/2017 – 10/2020*<br />
+**Lehtori, osastonjohtaja - Oulun ammattikorkeakoulu**
+*noin 02/2008 - 10/2020*<br />
 Viestinnän lehtori. Omat erityisalat: tutkielmaohjaus, media-analyysi,
 viestintä yhteiskunnallisena ilmiönä, TKI-toiminta, verkkojournalismi,
-viestintäoikeus, retoriikka
-
-**Lehtori, osastonjohtaja - Oulun ammattikorkeakoulu**
-*05/2011 – 12/2016*<br />
-Viestinnän tutkinto-ohjelman esimies. Viestinnän lehtori.
-
-**Tuntiopettaja - Oulun ammattikorkeakoulu**
-*02/2008 - 05/2008, 08/2009 - 07/2010*<br />
-Viestinnän ja journalismin opetustehtävät.
+viestintäoikeus, retoriikka. Tutkinto-ohjelman esihenkilö 05/2021 - 12/2016.
 
 **Väitöskirjatutkija - Tampereen yliopisto, Minnesotan yliopisto**
 *01/2006 - 01/2008*<br />
@@ -84,14 +76,14 @@ ohessa.
 
 **Työn ohessa 2006-2018**<br />
 Viestintäalan koulutus- ja konsultointitöitä useille työnantajille
-2006-2015. Tilaajina muun muassa Aalto-yliopisto, Yleisradio, Aito
-Media. Aiheina viestintä- ja esiintymistaidot, toimiala-analyysit,
+2006-2015. Tilaajina muun muassa Aalto-yliopisto ja Yleisradio.
+Aiheina viestintä- ja esiintymistaidot, toimiala-analyysit,
 ohjelmistoanalyysit, tuotekehitysprojektit.
 
 # Koulutus
 
 **Certified Scrum Master**<br />
-Sertifioitu 12/2023
+12/2023
 
 **Ratkaisukeskeinen coach ja valmentaja, Pohjois-Pohjanmaan kesäyliopisto 2022**<br />
 Ratkaisu- ja voimavarakeskeisen työskentelyn opinnot (30op).
@@ -116,18 +108,22 @@ yksinkertaistaa frontend-puolta ja korvata Reactia mahdollisuuksien mukaan
 **Hotwire**-tekniikoilla, käytännössä Turbolla ja Stimuluksella.
 
 Olen tehnyt kaikenlaista, mutta erityisen paljon integraatioprojekteja,
-joissa **REST API**t ovat keskiössä, ja siihen sitten yhdistyy koko joukko erilaisia
-tiedostomuotoja ja niiden vääntelyitä, tiedonsiirtoprotokollia, API-rajapintoja jne.
+eli APIt, tiedonsiirtoprotokollat ja tiedostomuodot ja niiden kanssa puuhaaminen on tuttua.
 Yhden tuoreen järjestelmäprojektin tein **Golang**illa, joka oli ilahduttava kokemus.
 
 **Linux**ia olen tottunut pyörittelemään devaus- ja tuotantoympäristönä ja putkistosta löytyvät **Git**, **Docker** ja **Jenkins**.
-Tietokannoista tutumpia ovat relaatiomalliset (PostgreSQL, DB2) ja niiden kanssa toimitaan **SQL**llä.
+Tietokannoista tutumpia ovat relaatiomalliset (Postgre**SQL**, DB2).
 
 Suurin osa omista projekteista on **Python**illa ja sen kirjastoilla (**Flask, Django, SQLAlchemy..**) tehtyjä.
 Datahommissa **NLTK**, **Plotly** ja **Scikit-learn** ovat tulleet eniten tutuiksi.
 
-Takaraivossa on kaikenlaista vähän uinuvaa, mutta herättelykelposta osaamista, kuten Java, C, C++, HTML, CSS,
-ActiveMQ (Stomp), R, Flutter/Dart. Testejä olen kirjoittanut RSpecillä ja Pytestillä.
+**AWS**, **GCP** ja **Heroku** ovat tuttuja, mutta niissä osaaminen on vielä hieman pintapuolista.
+Harrastusprojekti [Hepp](https://hepp.fi) pyörii Hetznerin palvelimilla ja ajetaan tuotantoon automatisoidusti **Dokku**a hyödyntäen.
+Hepp käyttää myös AWS:n palveluita (S3, SES).
+
+Näihinkin on tullut perehdyttyä, lähinnä harrastusmielessä: Java, C, C++, ActiveMQ, R, Flutter/Dart.
+
+Testejä olen kirjoittanut RSpecillä ja Pytestillä.
 
 # Viestintäalan julkaisut
 

@@ -20,7 +20,6 @@ hakijoilta edellytettyjä teknologiataitoja ja näyttää, mitä
 teknologioita juuri nyt pitäisi osata. 
 
 **Tekniikat:** Webbisivusto: Flask ja Plotly. NLP-työkaluna NLTK.<br />
-**Demoserveri:** [frostlab.fi/itduunit](https://frostlab.fi/itduunit) <br />
 
 ![NLP News analysis website](img/itduunit.png)
 
@@ -30,8 +29,7 @@ teknologioita juuri nyt pitäisi osata.
 
 Tein uutisanalytiikkaa jutuista, jotka käsittelevät sekä
 **Ilmastonmuutosta** että **Greta Thunbergia**. Kyseessä on sovellus,
-joka raapii uutissivustoilta uutisia, puhdistaa sivut tekstiksi (ja
-tarpeen tullen poistaa myös yleisimpiä sanoja ja välimerkkejä), ja
+joka raapii uutissivustoilta uutisia, puhdistaa ne ja
 käyttää erilaisia NLP-tekniikoita uutisten analysoimiseksi. Käytössä on
 yksinkertaista sanojen yleisyyden laskentaa, sentimenttianalyysiä,
 nimien tunnistamista ja aihemallinnusta (LDA).
@@ -86,9 +84,7 @@ Javascript, JQuery) <br />
 Oulun yliopiston projektissa tekemäni tiedonlouhintasovellus, jossa
 analysoidaan verkon ilmastonmuutosuutisia. Uutiset haetaan avoimien
 rajapintojen kautta, puhdistetaan tekstiksi, analysoidaan eri
-tekniikoita käyttäen ja raportoidaan webbiin. Käyttöliittymäpuolella on
-nyt valmiina sanafrekvensseihin pohjaava analyysityökalu ja sen
-raportointi.
+tekniikoita käyttäen ja raportoidaan webbiin.
 
 **Tekniikat:** Django, Python, NLTK, PostgreSQL, Nginx <br />
 **Verkossa:** -- poistettu julkisesta verkosta 19.12.2021 --
@@ -104,11 +100,7 @@ puretaan tietellisistä artikkeleista lähdeviitetietoja ja analysoidaan,
 kuka viittaa kehenkin, mihin journaaleihin ja milloin. Tämän osaksi
 kehitelty myös
 [articleparse](https://github.com/palokangas/article-parse)-työkalua,
-jolla saataisiin pdf-tiedostot purettua järkevästi analysoitavaksi
-tekstiksi (osoittautunut haasteelliseksi, koska PDF on todellakin
-layout-formaatti eikä sen rakenteesta ole mitään takeita. Toimii
-kuitenkin suhteellisen varmasti yksi- ja kaksipalstaisille julkaisuille
-ja monille lähdeviiteformaateille).
+jolla saataisiin pdf-tiedostot purettua järkevästi analysoitavaksi tekstiksi.
 
 **Tekniikat:** Django, Python, PostgreSQL, Nginx,
 [articleparse](https://github.com/palokangas/article-parse) <br />
