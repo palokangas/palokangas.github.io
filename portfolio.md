@@ -5,13 +5,33 @@ title: portfolio
 
 ------------------------------------------------------------------------
 
+Vuosi 2023-
+===========
+
+#### [Hepp-keikkakalenteri](https://hepp.fi)
+
+Hepp on keikkakalenteri, joka raapii Tampereen - ja rajoitetummin Oulun -
+live-musiikkitapahtumat keikkapaikkojen sivuilta, tuo ne moderoitavaksi ja
+muokattavaksi ja julkaisee keikat. Kalenterilla on suunnnitteluperiaate:
+- Kaikki kaupungin keikat esitetään yhtenä pitkänä listana, josta voi hakea
+- Kaikessa suunnittelussa ensisijaistetaan se, että käyttäjä saisi tarpeellisen
+informaation nopeasti ja viipyisi sivulla mahdollisimman vähän aikaa.
+
+Käyttäjäosio beta-vaiheessa testiryhmällä: mahdollisuus seurata keikkoja,
+tapahtumapaikkoja, toimia tapahtumajärjestäjänä ja julkaista tapahtumia,
+tilata sähköpostimuistutuksia yms. Jos haluat testikäyttäjäksi, ota yhteyttä!
+
+**Tekniikat:** Ruby on Rails, PostgreSQL, Sidekiq, Redis, Puppeteer, Dokku yms.
+
+![Hepp-sivusto](img/hepp.png)
+
 Vuosi 2020
 ==========
 
 #### [Tekstinlouhinta työpaikkailmoituksista](https://frostlab.fi/itduunit)
 
 **Edit 02/2022: MOL on muuttanut APIaan, joten olen kytkenyt toistaiseksi
-kaikki päivitykset pois. Katsotaan, jaksanko palata tämän ääreen jossain vaiheessa.**
+kaikki päivitykset pois**
 
 ITDuunit-sivusto raapii päivittäin uudet it-alan työpaikat TE-keskuksen
 palvelusta ja ylläpitää listaa auki olevien paikkojen edellyttämistä
@@ -37,7 +57,7 @@ nimien tunnistamista ja aihemallinnusta (LDA).
 **Tekniikat:** Web: Flask ja Plotly. Analyysityökaluina mm.
 NLTK, Scikit-learn, NewsAPI, Vader jne. <br />
 **Lähdekoodi:**: [githubissa](https://github.com/palokangas/nlpnews)<br />
-**Demoserveri:** [frostlab.fi/nlpnews](https://frostlab.fi/nlpnews) <br />
+**Demoserveri:** (nukkuva prosessi käynnistyy hitaasti) [frostlab.fi/nlpnews](https://frostlab.fi/nlpnews) <br />
 
 ![NLP News analysis website](img/nlpnews.png)
 
