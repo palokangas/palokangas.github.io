@@ -13,9 +13,9 @@ Vuosi 2023-
 Hepp on keikkakalenteri, joka raapii Tampereen - ja rajoitetummin Oulun -
 live-musiikkitapahtumat keikkapaikkojen sivuilta, tuo ne moderoitavaksi ja
 muokattavaksi ja julkaisee keikat. Kalenterilla on suunnnitteluperiaate:
-- Kaikki kaupungin keikat esitetään yhtenä pitkänä listana, josta voi hakea
+- Kaikki kaupungin keikat esitetään yhtenä pitkänä listana, josta voi hakea. Ei sivutusta tai klikkailun tarvetta.
 - Kaikessa suunnittelussa ensisijaistetaan se, että käyttäjä saisi tarpeellisen
-informaation nopeasti ja viipyisi sivulla mahdollisimman vähän aikaa.
+informaation mahdollisimman nopeasti.
 
 Käyttäjäosio beta-vaiheessa testiryhmällä: mahdollisuus seurata keikkoja,
 tapahtumapaikkoja, toimia tapahtumajärjestäjänä ja julkaista tapahtumia,
