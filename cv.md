@@ -82,7 +82,7 @@ ohjelmistoanalyysit, tuotekehitysprojektit.
 
 # Koulutus
 
-**Certified Scrum Master**<br />
+**Certified Scrum Master, Reaktor Training**<br />
 12/2023
 
 **Ratkaisukeskeinen coach ja valmentaja, Pohjois-Pohjanmaan kesäyliopisto 2022**<br />
