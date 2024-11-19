@@ -10,7 +10,7 @@ Vuosi 2023-
 
 #### [Hepp-keikkakalenteri](https://hepp.fi)
 
-Hepp on keikkakalenteri, joka raapii Tampereen - ja rajoitetummin Oulun -
+Hepp on keikkakalenteri, joka hakee Tampereen - ja rajoitetummin Oulun -
 live-musiikkitapahtumat keikkapaikkojen sivuilta, tuo ne moderoitavaksi ja
 muokattavaksi ja julkaisee keikat. Kalenterilla on suunnnitteluperiaate:
 - Kaikki kaupungin keikat esitetään yhtenä pitkänä listana, josta voi hakea. Ei sivutusta tai klikkailun tarvetta.
@@ -28,12 +28,32 @@ tilata sähköpostimuistutuksia yms. Jos haluat testikäyttäjäksi, ota yhteytt
 Vuosi 2020
 ==========
 
+#### [Queenifier](https://open.spotify.com/playlist/0nYk598AxbNWBYNDQO7Y73?go=1&sp_cid=be8b9a9f67264848ae4fe07cb0d18dfe&nd=1&dlsi=e70f31e113394ef1)
+
+Queenifier on erittäin tärkeä botti. Se raapii Spotifystä kaikkien Queenin biisien suosion
+ja muodostaa niistä kerran vuorokaudessa päivittyvän Greatest Hits -kokoelman, kuitenkin niin,
+että yksikään listalla oleva biisi ei ole sama kuin Greatest Hits 1, 2 tai 3 -albumeilla.
+
+Kuriositeetti: Queenillä on Spotifyssä 1637 biisi-versiota, mutta "vain" 257 eri biisiä. Joten
+listallakaan ei tule olla saman biisin eri versioita (ainakin Love of My Life olisi muuten monta kertaa).
+
+**Tekniikat:** Python & Spotify API
+
+<figure class="image is-1by1">
+  <iframe class="has-ratio" width="600" height="800" src="https://open.spotify.com/embed/playlist/0nYk598AxbNWBYNDQO7Y73" frameborder="0" allowfullscreen></iframe>
+</figure>
+
+<br />
+
+
+------------------------------------------------------------------------
+
 #### [Tekstinlouhinta työpaikkailmoituksista](https://frostlab.fi/itduunit)
 
 **Edit 02/2022: MOL on muuttanut APIaan, joten olen kytkenyt toistaiseksi
 kaikki päivitykset pois**
 
-ITDuunit-sivusto raapii päivittäin uudet it-alan työpaikat TE-keskuksen
+ITDuunit-sivusto hakee päivittäin uudet it-alan työpaikat TE-keskuksen
 palvelusta ja ylläpitää listaa auki olevien paikkojen edellyttämistä
 osaamisista. Tällä hetkellä systeemi parsii ilmoitusteksteistä
 hakijoilta edellytettyjä teknologiataitoja ja näyttää, mitä
