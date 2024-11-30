@@ -65,7 +65,7 @@ teknologioita juuri nyt pitäisi osata.
 
 ------------------------------------------------------------------------
 
-#### [NLP ja tekstinlouhinta uutisaineistoista](https://frostlab.fi/nlpnews)
+#### [NLP ja tekstinlouhinta uutisaineistoista](https://frostlab.fi/nlpnews-archived)
 
 Tein uutisanalytiikkaa jutuista, jotka käsittelevät sekä
 **Ilmastonmuutosta** että **Greta Thunbergia**. Kyseessä on sovellus,
