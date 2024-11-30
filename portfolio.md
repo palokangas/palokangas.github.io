@@ -77,7 +77,7 @@ nimien tunnistamista ja aihemallinnusta (LDA).
 **Tekniikat:** Web: Flask ja Plotly. Analyysityökaluina mm.
 NLTK, Scikit-learn, NewsAPI, Vader jne. <br />
 **Lähdekoodi:**: [githubissa](https://github.com/palokangas/nlpnews)<br />
-**Demoserveri:** (nukkuva prosessi käynnistyy hitaasti) [frostlab.fi/nlpnews](https://frostlab.fi/nlpnews) <br />
+**Projektisivu:** [frostlab.fi/nlpnews](https://frostlab.fi/nlpnews-archived) <br />
 
 ![NLP News analysis website](img/nlpnews.png)
 
