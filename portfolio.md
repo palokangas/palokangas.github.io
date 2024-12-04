@@ -65,7 +65,7 @@ teknologioita juuri nyt pitäisi osata.
 
 ------------------------------------------------------------------------
 
-#### [NLP ja tekstinlouhinta uutisaineistoista](https://frostlab.fi/nlpnews-archived)
+#### [NLP ja tekstinlouhinta uutisaineistoista](http://frostlab.fi/nlpnews)
 
 Tein uutisanalytiikkaa jutuista, jotka käsittelevät sekä
 **Ilmastonmuutosta** että **Greta Thunbergia**. Kyseessä on sovellus,
@@ -77,7 +77,7 @@ nimien tunnistamista ja aihemallinnusta (LDA).
 **Tekniikat:** Web: Flask ja Plotly. Analyysityökaluina mm.
 NLTK, Scikit-learn, NewsAPI, Vader jne. <br />
 **Lähdekoodi:**: [githubissa](https://github.com/palokangas/nlpnews)<br />
-**Projektisivu:** [frostlab.fi/nlpnews](https://frostlab.fi/nlpnews-archived) <br />
+**Projektisivu:** [frostlab.fi/nlpnews](http://frostlab.fi/nlpnews) <br />
 
 ![NLP News analysis website](img/nlpnews.png)
 
