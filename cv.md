@@ -102,10 +102,8 @@ yliopistossa 2000-2001
 
 # ATK-osaamiset
 
-Tuotantokoodia teen enimmäkseen **Ruby**llä, **Ruby on Rails**illa ja
-frontin puolella **ReactJS**:llä. Rails 7:n myötä kiinnostus on
-yksinkertaistaa frontend-puolta ja korvata Reactia mahdollisuuksien mukaan
-**Hotwire**-tekniikoilla, käytännössä Turbolla ja Stimuluksella.
+Päivittäinen työ juuri nyt: Stackista löytyy **Ruby**, **Ruby on Rails** ja
+frontin puolella **ReactJS** tai **Hotwire/Stimulus/Turbo**. Infrastruktuureissa **AWS**, **GCP** ja **Azure**.
 
 Olen tehnyt kaikenlaista, mutta erityisen paljon integraatioprojekteja,
 eli APIt, tiedonsiirtoprotokollat ja tiedostomuodot ja niiden kanssa puuhaaminen on tuttua.
@@ -117,13 +115,13 @@ Tietokannoista tutumpia ovat relaatiomalliset (Postgre**SQL**, DB2).
 Suurin osa omista projekteista on **Python**illa ja sen kirjastoilla (**Flask, Django, SQLAlchemy..**) tehtyjä.
 Datahommissa **NLTK**, **Plotly** ja **Scikit-learn** ovat tulleet eniten tutuiksi.
 
-**AWS**, **GCP** ja **Heroku** ovat tuttuja, mutta niissä osaaminen on vielä hieman pintapuolista.
+**AWS**, **GCP** ja **Azure** ovat tuttuja, mutta niissä osaaminen on vielä hieman pintapuolista.
 Harrastusprojekti [Hepp](https://hepp.fi) pyörii Hetznerin palvelimilla ja ajetaan tuotantoon automatisoidusti **Dokku**a hyödyntäen.
 Hepp käyttää myös AWS:n palveluita (S3, SES).
 
-Näihinkin on tullut perehdyttyä, lähinnä harrastusmielessä: Java, C, C++, ActiveMQ, R, Flutter/Dart.
+Näihinkin on tullut perehdyttyä, lähinnä harrastusmielessä: Tauri/Rust, TypeScript/SvelteKit, React Router/Remix, Java, C, C++, ActiveMQ, R, Flutter/Dart, Qt.
 
-Testejä olen kirjoittanut RSpecillä ja Pytestillä.
+Web-analytiikassa on ollut käytössä **Google Tag Manager** ja **Umami**.
 
 # Viestintäalan julkaisut
 
